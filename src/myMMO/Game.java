@@ -63,7 +63,7 @@ public class Game extends Canvas implements Runnable{
 	//sets up the frame 
 	public Game()
 	{
-		frame = new JFrame("I Need A Name");
+		frame = new JFrame("Senior Project");
 
 
 		setPreferredSize(new Dimension(WIDTH*SCALE,HEIGHT*SCALE));
