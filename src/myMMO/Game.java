@@ -337,7 +337,7 @@ public class Game extends Canvas implements Runnable{
 			}
 		}
 		
-		Font.render("Hellow World!0157",display,0,0,Colours.get(000, -1, -1, 555));
+		//Font.render("Hellow World!0157",display,0,0,Colours.get(000, -1, -1, 555));
 		
 		
 		for(int y = 0;y<display.height;y++)
